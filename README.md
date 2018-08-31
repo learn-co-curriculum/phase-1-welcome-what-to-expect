@@ -32,33 +32,13 @@ ___
 
 Module 3 can be considered "front-loaded", meaning that the beginning of the module is heavier in content than the rest. The first week, including the weekend prior to the Monday of the first week, contains the majority of the material. The second week contains labs and activities built to help digest and practice the content introduced throughout week 1.
 
-### First Weekend
-
-For the weekend prior to the Monday of the first week, there are 35 items to complete (labs and READMEs) in order to stay on pace.
-
-### Week 1
-
-This week is very heavy on concepts, including the topics covered in the Code Challenge. You will learn new topics every day of the week, and will need to keep up completion of labs. These topics may seem unrelated at this point, but that is because Javascript has many moving parts. Things will come together during Week 2.
-
-### Week 2
-
-You will learn how the Javascript concepts learned in Week 1 come together to produce Web Applications. You will have many Single-Page Application projects to work on that will employ everything learned so far. Pseudo-coding will become more important, as you will be challenged to problem solve, break problems down into smaller problems, and to work iteratively in solving each of these problems.
-
-You will also be introduced to Object-Oriented JS.
-
-### Week 3
-
-You will be in project mode, working with third-party APIs and building a Single-Page, Full-Stack Application. You will learn how to configure Rails as an API backend, and will connect it to a Javascript Frontend.
-
-You will also be beginning to prepare for Flatiron School Presents (FSP) presentations.
-
 ### Things to Know
 
 * The material is more difficult because it is a new language with new quirks and vocabulary.
 
 * The material requires much critical thinking, more than previous modules. You cannot pattern match to solve the labs.
 
-* Again, one topic does not always flow into the other.
+* One topic does not always flow into the other. This is because Javascript has many moving parts.
 
 ___
 
