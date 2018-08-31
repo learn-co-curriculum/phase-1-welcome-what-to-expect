@@ -6,10 +6,24 @@
 
 At this point in time you've actually gained the knowledge and context necessary to call yourself a "Junior Rails Developer", and this is no small feat.
 ___
-## Emotional Preparation
+## The Journey of Learning Something New
+
+### The Stages of Learning
+You will see below an image that illustrates the stages of learning that each of us goes through, at least when it comes to programming:
+
+![alt text](./consciousness_competence.jpg "Consciousness of Competence")
+
+1. START: You don't what the road to knowledge looks like.
+
+2. SECOND: You now know what the road looks like, and subsequently you know you're rather far from your end-goal.
+
+3. THIRD: Getting to the goal via the road, acknowledging an increase in knowledge along the way.
+
+4. GOAL: You got to the goal and moved on to other roads! You also took the knowledge with you!
+
 
 ### The Emotional Journey of Creating Anything Great
-You will see below an image that illustrates, as the title states, "The Emotional Journey of Creating Anything Great". We want you to take a look at this because there is much that you and your cohort mates can take away from it as you enter the most intensive of the five modules:
+You will see below an image that illustrates the emotional journey of creating anything great. We want you to take a look at this because there is much that you and your cohort mates can take away from it as you enter the most intensive of the five modules:
 
 ![alt text](./emotional_journey.png "The Emotional Journey of Creating Anything Great")
 
