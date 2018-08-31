@@ -40,6 +40,8 @@ Module 3 can be considered "front-loaded", meaning that the beginning of the mod
 
 * One topic does not always flow into the other. This is because Javascript has many moving parts.
 
+* Ruby gave you multiple names for the same method, which may have been confusing when you learned iterators. JavaScript gives you even more flexibility on how to structure your code than Ruby.
+
 ___
 
 ## Independence
