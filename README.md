@@ -21,17 +21,18 @@ You will see below an image that illustrates the stages of learning that each of
 
 4. GOAL: You got to the goal and moved on to other roads! You also took the knowledge with you!
 
-
 ### The Emotional Journey of Creating Anything Great
 You will see below an image that illustrates the emotional journey of creating anything great. We want you to take a look at this because there is much that you and your cohort mates can take away from it as you enter the most intensive of the five modules:
 
 ![alt text](./emotional_journey.png "The Emotional Journey of Creating Anything Great")
 
-The first point we want share with you is that it is normal to feel the weight of Module 3 (and the entire program) on your shoulders, you will not be alone in however you will be feeling. You and your cohort mates are all going through it together, so lean on each other.
+1. The first point we want share with you is that it is normal to feel the weight of Module 3 (and the entire program) on your shoulders, you will not be alone in however you will be feeling. You and your cohort mates are all going through it together, so lean on each other.
 
-The second point we want to share with you is that you should try to be aware of where you find yourself mentally and emotionally, and should act accordingly to attempt to stay out of the dark swamp. Lean on family, and remember to have confidence in your support system. If the administrative support system available to you is not clear, talk to an instructor and a meeting can be arranged between the both of you and an administrator such as the Senior Program Manager.
+2. The second point we want to share with you is that you should try to be aware of where you find yourself mentally and emotionally, and should act accordingly to attempt to stay out of the dark swamp. Lean on family, and remember to have confidence in your support system. If the administrative support system available to you is not clear, talk to an instructor and a meeting can be arranged between the both of you and an administrator such as the Senior Program Manager.
 
-The third and final point we want to share with you is to keep confidence in the curriculum, it is a crafted, tried and further refined system that is built to get you ready for the workforce!
+### Putting It Together
+We know Javascript is new to most (if not all) of you, and that many times when a student gets to the second step of "The Stages of Learning" and sees how long that road is, any student may feel discouragement. We want you to harness the above two points and to keep confidence in the curriculum; it is a thoroughly crafted, thoroughly tested, and further refined system that is built to get you ready for the workforce!
+
 
 ### Personal Empowerment Protocol
 1. Read the Error
@@ -61,7 +62,9 @@ ___
 ## Independence
 
 
-We want to empower you to take control of your own learning. This means learning to teach yourself how to approach new topics, debug, and find the answers to conceptual questions. For this reason, instructors will start to steer you towards resources, rather that answer your questions. We aren’t avoiding the question, we want to see if you can read documentation and master google-fu. These are the skills you will need in your first job!
+We want to empower you to take control of your own learning. This means learning to teach yourself how to approach new topics, debug, and find the answers to conceptual questions.
+
+For this reason, instructors will start to steer you towards resources, rather that answer your questions. We aren’t avoiding the question, we want to see if you can read documentation and master google-fu. These are the skills you will need in your first job!
 
 ___
 ## Resources
