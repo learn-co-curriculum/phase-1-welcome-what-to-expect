@@ -69,6 +69,6 @@ For this reason, instructors will start to steer you towards resources, rather t
 ___
 ## Resources
 
-* [Example 1](https://www.youtube.com/watch?v=-jrEbj4iCQ8)
+* [Add Resource](https://webmarketingtool.com/images/howto/add-resource-page.jpg)
 
-* [Example 2](https://www.youtube.com/watch?v=vENMFapLonA)
+* [Add Resource](https://webmarketingtool.com/images/howto/add-resource-page.jpg)
