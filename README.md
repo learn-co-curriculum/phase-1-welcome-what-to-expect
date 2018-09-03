@@ -65,3 +65,9 @@ ___
 We want to empower you to take control of your own learning. This means learning to teach yourself how to approach new topics, debug, and find the answers to conceptual questions.
 
 For this reason, instructors will start to steer you towards resources, rather that answer your questions. We aren’t avoiding the question, we want to see if you can read documentation and master google-fu. These are the skills you will need in your first job!
+___
+## Resources
+
+* [Add Resource](https://webmarketingtool.com/images/howto/add-resource-page.jpg)
+
+* [Add Resource](https://webmarketingtool.com/images/howto/add-resource-page.jpg)
