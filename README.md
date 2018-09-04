@@ -45,13 +45,13 @@ We know Javascript is new to most (if not all) of you, and that many times when 
 ___
 ## The Content
 
-Module 3 can be considered "front-loaded", meaning that the beginning of the module is heavier in content than the rest. The first week, including the weekend prior to the Monday of the first week, contains the majority of the material. The second week contains labs and activities built to help digest and practice the content introduced throughout week 1.
-
 ### Things to Know
 
 * The material is more difficult because it is a new language with new quirks and vocabulary.
 
 * The material requires much critical thinking, more than previous modules. You cannot pattern match to solve the labs.
+
+* Test your code very often: keep checking your assumptions about what you code you wrote against what your code is actually telling the Browser to do! Ask yourself what your code is doing and why it it is doing it.
 
 * One topic does not always flow into the other. This is because Javascript has many moving parts.
 
