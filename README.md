@@ -11,7 +11,7 @@ ___
 ### The Stages of Learning
 You will see below an image that illustrates the stages of learning that each of us goes through, at least when it comes to programming:
 
-![alt text](./consciousness_competence.jpg "Consciousness of Competence")
+![alt text](https://user-images.githubusercontent.com/20468684/44881320-33845480-ac7d-11e8-8a69-5e30c51ebfd9.jpg "Consciousness of Competence")
 
 1. START: You don't what the road to knowledge looks like.
 
@@ -24,7 +24,7 @@ You will see below an image that illustrates the stages of learning that each of
 ### The Emotional Journey of Creating Anything Great
 You will see below an image that illustrates the emotional journey of creating anything great. We want you to take a look at this because there is much that you and your cohort mates can take away from it as you enter the most intensive of the five modules:
 
-![alt text](./emotional_journey.png "The Emotional Journey of Creating Anything Great")
+![alt text](https://i.imgur.com/X4QR5en.png "The Emotional Journey of Creating Anything Great")
 
 1. The first point we want share with you is that it is normal to feel the weight of Module 3 (and the entire program) on your shoulders, you will not be alone in however you will be feeling. You and your cohort mates are all going through it together, so lean on each other.
 
