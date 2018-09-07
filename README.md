@@ -41,6 +41,7 @@ We know Javascript is new to most (if not all) of you, and that many times when 
 
 4. Ask an Instructor
 
+
 ___
 ## The Content
 ### Things to Know
@@ -57,8 +58,8 @@ ___
 
 * Ruby did a lot of the heavy lifting for us, with one example being `Array#uniq`. Javascript does not have this method built-in, and that is the case for many others. You will have to build many things out yourself.
 
-___
 
+___
 ## Independence
 
 We want to empower you to take control of your own learning. This means learning to teach yourself how to approach new topics, debug, and find the answers to conceptual questions.
