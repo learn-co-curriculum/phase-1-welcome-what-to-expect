@@ -49,7 +49,7 @@ ___
 
 * The material is more difficult because it is a new language with new quirks and vocabulary.
 
-* You cannot pattern match to solve the labs. The material for this module requires increased use of critical thinking and problem solving skills. Shift your priorities from getting green checks / lights to drilling down and understanding the underlying concepts.
+* You cannot pattern match to solve the labs. Furthermore, the material for this module requires increased use of critical thinking and problem solving skills. You should shift your priorities from getting green checks / lights to drilling down and understanding the underlying concepts.
 
 * Test your code very often: keep checking your assumptions about what you code you wrote against what your code is actually telling the Browser to do! Ask yourself what your code is doing and why it it is doing it.
 
