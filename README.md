@@ -49,13 +49,15 @@ ___
 
 * The material is more difficult because it is a new language with new quirks and vocabulary.
 
-* The material requires much critical thinking, more than previous modules. You cannot pattern match to solve the labs.
+* You cannot pattern match to solve the labs. The material for this module requires increased use of critical thinking and problem solving skills. Shift your priorities from getting green checks / lights to drilling down and understanding the underlying concepts.
 
 * Test your code very often: keep checking your assumptions about what you code you wrote against what your code is actually telling the Browser to do! Ask yourself what your code is doing and why it it is doing it.
 
 * One topic does not always flow into the other. This is because Javascript has many moving parts.
 
 * Ruby gave you multiple names for the same method, which may have been confusing when you learned iterators. JavaScript gives you even more flexibility on how to structure your code than Ruby.
+
+* Ruby did a lot of the heavy lifting for us, with one example being `Array#uniq`. Javascript does not have this method built-in, and that is the case for many others. You will have to build many things out yourself.
 
 ___
 
