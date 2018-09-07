@@ -1,13 +1,11 @@
 # What To Expect In Module 3
-
 ## But First
-
 ### Congratulations!
 
 At this point in time you've actually gained the knowledge and context necessary to call yourself a "Junior Rails Developer", and this is no small feat.
+
 ___
 ## The Journey of Learning Something New
-
 ### The Stages of Learning
 You will see below an image that illustrates the stages of learning that each of us goes through, at least when it comes to programming:
 
@@ -42,9 +40,9 @@ We know Javascript is new to most (if not all) of you, and that many times when 
 3. Ask a Neighbor
 
 4. Ask an Instructor
+
 ___
 ## The Content
-
 ### Things to Know
 
 * The material is more difficult because it is a new language with new quirks and vocabulary.
@@ -62,7 +60,6 @@ ___
 ___
 
 ## Independence
-
 
 We want to empower you to take control of your own learning. This means learning to teach yourself how to approach new topics, debug, and find the answers to conceptual questions.
 
