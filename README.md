@@ -11,7 +11,7 @@ You will see below an image that illustrates the stages of learning that each of
 
 ![alt text](https://user-images.githubusercontent.com/20468684/44881320-33845480-ac7d-11e8-8a69-5e30c51ebfd9.jpg "Consciousness of Competence")
 
-1. START: You don't what the road to knowledge looks like.
+1. START: You don't know what the road to knowledge looks like.
 
 2. SECOND: You now know what the road looks like, and subsequently you know you're rather far from your end-goal.
 
