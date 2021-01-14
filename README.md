@@ -75,6 +75,10 @@ is actually telling the Browser to do! Ask yourself what your code is doing and 
 
 * One topic does not always flow into the other. This is because Javascript has many moving parts.
 
+* **Note:** Going forward, not all assignments will have tests. There will be some that are more open-ended. These
+are provided to allow you to practice applying concepts without being restricted to a specific design. You will
+need to use your judgement to determine how much time you should spend working on this content.
+
 ___
 ## Independence
 
