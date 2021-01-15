@@ -85,6 +85,6 @@ ___
 We want to empower you to take control of your own learning. This means learning to teach yourself how to approach
 new topics, debug, and find the answers to conceptual questions.
 
-For this reason, instructors may steer you towards resources, rather that answer your questions directly. We aren’t
+For this reason, instructors may steer you towards resources, rather than answer your questions directly. We aren’t
 avoiding the question, we want to see if you can read documentation and master google-fu. These are the skills you
 will need in your first job!
