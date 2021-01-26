@@ -56,7 +56,7 @@ of the five modules:
 
 ### Putting It Together
 
-We know Javascript is new to most (if not all) of you. It is not unusual, when a
+We know JavaScript is new to most (if not all) of you. It is not unusual, when a
 student gets to the second step of "The Stages of Learning" and sees how long
 that road is, to feel discouraged. If you feel that happening to you, keep the
 above two points in mind and also keep confidence in the curriculum: it is a
@@ -84,9 +84,9 @@ ___
   not just passing the tests.
 * Test your code often! As you code, you should be regularly checking your
   *assumptions* about what your code is doing against what it's actually telling
-  the Browser to do. Continually ask yourself what your code is doing and why it
+  the browser to do. Continually ask yourself what your code is doing and why it
   is doing it.
-* One topic does not always flow into the other. This is because Javascript has
+* One topic does not always flow into the other. This is because JavaScript has
   many moving parts.
 * Going forward, **not all assignments will have tests**. There will be
   some that are more open-ended. These are provided to allow you to practice
