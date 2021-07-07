@@ -12,7 +12,8 @@ way!
 repeated here in Phase 1. This is content that we feel is especially important
 to review before you move forward. If you feel comfortable with the content,
 however, you are free to skim or move on. In the labs, if you see instructions
-to run `npm install` or `npm test`, you should use `learn test` instead.
+to run `npm install` or `npm test`, you should instead use `learn test` to
+install the dependencies, run the tests, and submit the lab.
 
 ## The Journey of Learning Something New
 
