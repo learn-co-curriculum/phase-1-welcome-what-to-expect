@@ -4,11 +4,15 @@
 
 ### Congratulations!
 
-Welcome to the the start of Phase 1 &mdash; our core JavaScript content! What
-you've done so far is no small feat. There is much more ahead, but you're well
-on your way!
+Welcome to the the start of Phase 1 — our core JavaScript content! What you've
+done so far is no small feat. There is much more ahead, but you're well on your
+way!
 
-___
+**Note:** If you completed the prework, you will see a number of those lessons
+repeated here in Phase 1. This is content that we feel is especially important
+to review before you move forward. If you feel comfortable with the content,
+however, you are free to skim or move on. In the labs, if you see instructions
+to run `npm install` or `npm test`, you should use `learn test` instead.
 
 ## The Journey of Learning Something New
 
@@ -40,7 +44,7 @@ of the five modules:
 ![alt text](https://i.imgur.com/X4QR5en.png "The Emotional Journey of Creating Anything Great")
 
 1. The first point we want share with you is that it is normal to feel the
-   weight of Phase 1 (and the entire program) on your shoulders &mdash; you will
+   weight of Phase 1 (and the entire program) on your shoulders — you will
    not be alone in however you will be feeling. Many students are actively going
    through the same thing. Lean on each other! We encourage you to find others
    at the same place in the course as you and make time to work together towards
