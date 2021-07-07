@@ -23,6 +23,7 @@ are free to skim or move on.
   Canvas, you can do so using the "Submit Assignment" button at the top of the
   Canvas page.
 
+
 ## The Journey of Learning Something New
 
 ### The Stages of Learning
