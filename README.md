@@ -8,12 +8,21 @@ Welcome to the the start of Phase 1 — our core JavaScript content! What you've
 done so far is no small feat. There is much more ahead, but you're well on your
 way!
 
-**Note:** If you completed the prework, you will see a number of those lessons
+If you completed the prework, you will see a number of those lessons and labs
 repeated here in Phase 1. This is content that we feel is especially important
-to review before you move forward. If you feel comfortable with the content,
-however, you are free to skim or move on. In the labs, if you see instructions
-to run `npm install` or `npm test`, you should instead use `learn test` to
-install the dependencies, run the tests, and submit your work.
+to review before you move forward. If you feel comfortable with the content, you
+are free to skim or move on.
+
+**Please Note the following about Repeated Prework Labs**:
+
+- If you have already completed the prework labs but would like to redo any of
+  them for practice, you will need to delete your current fork of the repo and
+  refork it.
+- When working on prework review labs, you can use `learn test` to run the tests
+  but it will not sync your progress with Canvas. If you wish to submit one in
+  Canvas, you can do so using the "Submit Assignment" button at the top of the
+  Canvas page.
+
 
 ## The Journey of Learning Something New
 
