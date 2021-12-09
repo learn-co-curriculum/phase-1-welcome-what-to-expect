@@ -1,8 +1,6 @@
 # Welcome - What To Expect In Phase 1
 
-## First,
-
-### Congratulations!
+## Congratulations!
 
 Welcome to the the start of Phase 1 — our core JavaScript content! What you've
 done so far is no small feat. There is much more ahead, but you're well on your
@@ -22,7 +20,6 @@ are free to skim or move on.
   but it will not sync your progress with Canvas. If you wish to submit one in
   Canvas, you can do so using the "Submit Assignment" button at the top of the
   Canvas page.
-
 
 ## The Journey of Learning Something New
 
@@ -90,19 +87,19 @@ ___
 
 ### Things to Know
 
-* Learning JavaScript can be difficult because it is a language with many quirks
+- Learning JavaScript can be difficult because it is a language with many quirks
   and a large vocabulary.
-* The material for this module requires increased use of critical thinking and
+- The material for this module requires increased use of critical thinking and
   problem solving skills. You cannot pattern match to solve the labs.  Your
   priority should be drilling down and understanding the underlying concepts,
   not just passing the tests.
-* Test your code often! As you code, you should be regularly checking your
+- Test your code often! As you code, you should be regularly checking your
   *assumptions* about what your code is doing against what it's actually telling
   the browser to do. Continually ask yourself what your code is doing and why it
   is doing it.
-* One topic does not always flow into the other. This is because JavaScript has
+- One topic does not always flow into the other. This is because JavaScript has
   many moving parts.
-* Going forward, **not all assignments will have tests**. There will be
+- Going forward, **not all assignments will have tests**. There will be
   some that are more open-ended. These are provided to allow you to practice
   applying concepts without being restricted to a specific design. You will need
   to use your judgment to determine how much time you should spend working on
@@ -118,5 +115,5 @@ conceptual questions.
 
 For this reason, instructors may steer you towards resources, rather than answer
 your questions directly. We aren’t avoiding the question; we want to see if you
-can read documentation and master Google-fu. These are the skills you will need
-in your first job!
+can read documentation and become a Google-ing boss. These are the skills you
+will need in your first job!
