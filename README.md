@@ -1,5 +1,9 @@
 # Welcome - What To Expect In Phase 1
 
+## Learning Goals
+
+- Understand what to expect in Phase 1
+
 ## Congratulations!
 
 Welcome to the the start of Phase 1 — our core JavaScript content! What you've
@@ -15,7 +19,7 @@ are free to skim or move on.
 
 - If you have already completed the prework labs but would like to redo any of
   them for practice, you will need to delete your current fork of the repo and
-  refork it.
+  fork it again.
 - When working on prework review labs, you can use `learn test` to run the tests
   but it will not sync your progress with Canvas. If you wish to submit one in
   Canvas, you can do so using the "Submit Assignment" button at the top of the
@@ -51,8 +55,8 @@ of the five modules:
 ![alt text](https://i.imgur.com/X4QR5en.png "The Emotional Journey of Creating Anything Great")
 
 1. The first point we want share with you is that it is normal to feel the
-   weight of Phase 1 (and the entire program) on your shoulders — you will
-   not be alone in however you will be feeling. Many students are actively going
+   weight of Phase 1 (and the entire program) on your shoulders — you will not
+   be alone in however you will be feeling. Many students are actively going
    through the same thing. Lean on each other! We encourage you to find others
    at the same place in the course as you and make time to work together towards
    your shared goals.
@@ -81,7 +85,7 @@ designed to get you ready for the workforce!
 3. Ask a Neighbor
 4. Ask an Instructor
 
-___
+---
 
 ## The Content
 
@@ -90,22 +94,22 @@ ___
 - Learning JavaScript can be difficult because it is a language with many quirks
   and a large vocabulary.
 - The material for this module requires increased use of critical thinking and
-  problem solving skills. You cannot pattern match to solve the labs.  Your
+  problem solving skills. You cannot pattern match to solve the labs. Your
   priority should be drilling down and understanding the underlying concepts,
   not just passing the tests.
 - Test your code often! As you code, you should be regularly checking your
-  *assumptions* about what your code is doing against what it's actually telling
+  _assumptions_ about what your code is doing against what it's actually telling
   the browser to do. Continually ask yourself what your code is doing and why it
   is doing it.
 - One topic does not always flow into the other. This is because JavaScript has
   many moving parts.
-- Going forward, **not all assignments will have tests**. There will be
-  some that are more open-ended. These are provided to allow you to practice
-  applying concepts without being restricted to a specific design. You will need
-  to use your judgment to determine how much time you should spend working on
-  this content.
+- Going forward, **not all assignments will have tests**. There will be some
+  that are more open-ended. These are provided to allow you to practice applying
+  concepts without being restricted to a specific design. You will need to use
+  your judgment to determine how much time you should spend working on this
+  content.
 
-___
+---
 
 ## Independence
 
