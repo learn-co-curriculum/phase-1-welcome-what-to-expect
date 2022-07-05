@@ -10,14 +10,14 @@ Welcome to the the start of Phase 1 — our core JavaScript content! What you've
 done so far is no small feat. There is much more ahead, but you're well on your
 way!
 
-If you completed the prework, you will see a number of those lessons and labs
-repeated here in Phase 1. This is content that we feel is especially important
-to review before you move forward. If you feel comfortable with the content, you
-are free to skim or move on.
+If you completed Software Engineering Prep, you will see a number of those
+lessons and labs repeated here in Phase 1. This is content that we feel is
+especially important to review before you move forward. If you feel comfortable
+with the content, you are free to skim or move on.
 
-**Note**: If you have already completed the prework labs but would like to redo
-any of them for practice, you will need to delete your current fork of the repo
-from your GitHub account and fork it again.
+**Note**: If you have already completed the Software Engineering Prep labs but
+would like to redo any of them for practice, you will need to delete your
+current fork of the repo from your GitHub account and fork it again.
 
 ## The Journey of Learning Something New
 
